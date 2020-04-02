@@ -1,0 +1,11 @@
+
+1、log4j-1.2x版本的jar包与 log4j-core-2.X版本的jar包在使用方法上有很多的不同。
+也因此，其 1.X版本的 log4j.properties文件与 log4j-core-2.X版本的 log4j2.properties文件
+在配置形式上也是差异巨大，这2个 properties文件相互不可重用！
+
+2、Log4j2-Demo项目 与 Log4j-Demo项目是两个完全不同的项目。  
+                                                        @moon  2019/05/07  22:05             
+
+3、项目来源网址： https://www.yiibai.com/log4j                        
+                                                        
+                                                        
